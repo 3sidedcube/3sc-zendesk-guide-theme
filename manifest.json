@@ -231,13 +231,13 @@
       "label": "images_group_label",
       "variables": [
         {
-          "identifier": "homepage_background_image",
+          "identifier": "knowledge_base_background_image",
           "type": "file",
           "description": "homepage_background_image_description",
           "label": "homepage_background_image_label"
         },
         {
-          "identifier": "knowledge_base_background_image",
+          "identifier": "homepage_background_image",
           "type": "file",
           "description": "homepage_background_image_description",
           "label": "homepage_background_image_label"
