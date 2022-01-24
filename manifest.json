@@ -231,10 +231,11 @@
       "label": "images_group_label",
       "variables": [
         {
-          "identifier": "knowledge_base_background_image",
-          "type": "file",
-          "description": "homepage_background_image_description",
-          "label": "homepage_background_image_label"
+          "identifier": "show_brand_name_test",
+          "type": "checkbox",
+          "description": "show_brand_name_description",
+          "label": "show_brand_name_label",
+          "value": false
         },
         {
           "identifier": "homepage_background_image",
