@@ -237,6 +237,12 @@
           "label": "homepage_background_image_label"
         },
         {
+          "identifier": "knowledge_base_background_image",
+          "type": "file",
+          "description": "Background for the knowledge base selection on the home page",
+          "label": "Knowledge base background"
+        },
+        {
           "identifier": "community_background_image",
           "type": "file",
           "description": "community_background_image_description",
