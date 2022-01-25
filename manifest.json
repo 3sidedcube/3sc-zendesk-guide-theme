@@ -231,6 +231,12 @@
       "label": "images_group_label",
       "variables": [
         {
+          "identifier": "knowledge_base_background_image",
+          "type": "file",
+          "description": "asda",
+          "label": "asda"
+        },
+        {
           "identifier": "homepage_background_image",
           "type": "file",
           "description": "homepage_background_image_description",
