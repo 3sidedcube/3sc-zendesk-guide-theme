@@ -237,7 +237,7 @@
           "label": "homepage_background_image_label"
         },
         {
-          "identifier": "homepage_background_images",
+          "identifier": "knowledge_base_background_image",
           "type": "file",
           "description": "asda",
           "label": "asda"
