@@ -239,7 +239,7 @@
         {
           "identifier": "knowledge_base_image",
           "type": "file",
-          "description": "Knowledge base background image",
+          "description": "Knowledge base categories background image",
           "label": "Knowledge base image"
         },
         {
@@ -253,6 +253,12 @@
           "type": "file",
           "description": "community_image_description",
           "label": "community_image_label"
+        },
+        {
+          "identifier": "article_banner_image",
+          "type": "file",
+          "description": "Article banner background image",
+          "label": "Article banner image"
         }
       ]
     },

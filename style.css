@@ -4908,6 +4908,7 @@ html[dir="rtl"] .notification-left-aligned {
 .c-knowledge-base {
   padding: 40px 0;
   background-size: cover;
+  background-position: top left;
   background-image: url($knowledge_base_image);
 }
 
@@ -4931,4 +4932,19 @@ html[dir="rtl"] .notification-left-aligned {
   font-size: 14px;
   line-height: 21px;
   font-weight: 700;
+}
+
+.c-article-banner {
+  position: relative;
+}
+
+.c-article-banner:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "";
+  width: 100%;
+  height: 30vh;
+  background-size: cover;
+  background-image: url($article_banner_image);
 }
