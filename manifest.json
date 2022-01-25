@@ -231,10 +231,16 @@
       "label": "images_group_label",
       "variables": [
         {
-          "identifier": "homepage_background_images",
+          "identifier": "homepage_background_image",
           "type": "file",
           "description": "homepage_background_image_description",
           "label": "homepage_background_image_label"
+        },
+        {
+          "identifier": "homepage_background_images",
+          "type": "file",
+          "description": "asda",
+          "label": "asda"
         },
         {
           "identifier": "community_background_image",
