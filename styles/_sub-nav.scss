@@ -17,6 +17,8 @@
       min-width: 300px;
     }
 
-    &::after { font-size: $font-size-base; }
+    &::after {
+      font-size: $font-size-base;
+    }
   }
 }

@@ -25,7 +25,7 @@
   background: #fff;
   border: 1px solid rgb(216, 216, 216);
   border-radius: 3px;
-  box-shadow: 0 1px 5px rgba(0, 0, 0 , .1);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
   display: none;
   font-size: 14px;
   font-style: normal;
@@ -95,12 +95,11 @@
           margin-right: 10px;
           float: left;
         }
-
       }
-
     }
 
-    &[hidden], &[aria-hidden="true"] {
+    &[hidden],
+    &[aria-hidden="true"] {
       display: none !important;
     }
   }
@@ -117,7 +116,6 @@
 }
 
 [dir="rtl"] {
-
   .dropdown-menu {
     left: auto;
     right: 0;
@@ -128,7 +126,6 @@
     left: 0;
     right: auto;
   }
-
 }
 
 .dropdown-chevron-icon {
