@@ -1,7 +1,7 @@
 {
   "name": "3scTheme",
   "author": "3SidedCube",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "api_version": 2,
   "default_locale": "en-us",
   "settings": [
@@ -239,8 +239,8 @@
         {
           "identifier": "knowledge_base_image",
           "type": "file",
-          "description": "asda",
-          "label": "asda"
+          "description": "Knowledge base background image",
+          "label": "Knowledge base image"
         },
         {
           "identifier": "community_background_image",
