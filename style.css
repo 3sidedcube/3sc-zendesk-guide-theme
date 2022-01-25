@@ -1316,6 +1316,11 @@ ul {
   text-align: center;
 }
 
+.c-knowledge-base {
+  background-size: cover;
+  background-image: url($knowledge_base_image);
+}
+
 /***** Promoted articles *****/
 .promoted-articles {
   display: flex;
