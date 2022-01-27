@@ -1,3 +1,28 @@
+# 3SidedCube's theme for Zendesk Guide
+
+## Local Development
+
+[Zendesk's Guide](https://support.zendesk.com/hc/en-us/articles/4408822095642) on previewing theme changes locally.
+
+Once you've installed their [Ruby scripts](https://developer.zendesk.com/documentation/apps/zendesk-app-tools-zat/installing-and-using-the-zendesk-apps-tools/?_ga=2.160219967.340824073.1643275775-1906018972.1642696568) you can run the following command to start local development:
+
+```shell
+$ zat theme preview 
+```
+
+To compile the SCSS follow their guide [below](#using-sass).
+
+Commit comment conventions are enforced, [see below](#commit-types). An example of a valid commit:
+
+```shell
+type(scope?): subject
+
+fix(homepage): error on home page CTA
+```
+
+---
+### This repo was forked from Zendesk's default theme: [Copenhagen](https://github.com/zendesk/copenhagen_theme)
+
 # Copenhagen Theme by Zendesk
 
 The Copenhagen theme is the default Zendesk Guide theme. It is designed to be responsive and accessible.
