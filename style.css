@@ -4985,6 +4985,11 @@ html[dir="rtl"] .notification-left-aligned {
   }
 }
 
+.c-article-banner--category:after,
+.c-article-banner--category .c-article-banner__backdrop:after {
+  display: block;
+}
+
 .c-article-header {
   position: relative;
   z-index: 0;

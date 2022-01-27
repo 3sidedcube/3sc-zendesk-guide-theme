@@ -3,6 +3,7 @@
 // Article Styles
 
 .c-article-banner {
+  $this: &;
   position: relative;
 
   &:after {
@@ -41,6 +42,13 @@
       @include desktop {
         display: block;
       }
+    }
+  }
+
+  &--category {
+    &:after,
+    #{$this}__backdrop:after {
+      display: block;
     }
   }
 }
