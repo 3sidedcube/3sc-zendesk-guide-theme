@@ -1,13 +1,23 @@
-# 3SidedCube's theme for Zendesk Guide
+# 3 Sided Cube's theme for Zendesk Guide
+
+[3 Sided Cube's Zendesk support page](https://support.3sidedcube.com/)
 
 ## Local Development
 
-[Zendesk's Guide](https://support.zendesk.com/hc/en-us/articles/4408822095642) on previewing theme changes locally.
+```shell
+$ yarn install
+```
+
+Then follow [Zendesk's Guide](https://support.zendesk.com/hc/en-us/articles/4408822095642) on previewing theme changes locally.
 
 Once you've installed their [Ruby scripts](https://developer.zendesk.com/documentation/apps/zendesk-app-tools-zat/installing-and-using-the-zendesk-apps-tools/?_ga=2.160219967.340824073.1643275775-1906018972.1642696568) you can run the following command to start local development:
 
 ```shell
-$ zat theme preview 
+$ zat theme preview
+...
+$ https://support.3sidedcube.com/     # Zendesk full URL
+$ Username...                         # Ask support cube for a login
+$ Password...                         # Ask support cube for a login
 ```
 
 To compile the SCSS follow their guide [below](#using-sass).
