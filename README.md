@@ -1,6 +1,9 @@
 # 3 Sided Cube's theme for Zendesk Guide
 
-[3 Sided Cube's Zendesk support page](https://support.3sidedcube.com/)
+### Useful Links
+
+- [3 Sided Cube's Zendesk Guide page](https://support.3sidedcube.com/)
+- [3 Sided Cube's Zendesk Guide themes](https://support.3sidedcube.com/theming)
 
 ## Local Development
 
